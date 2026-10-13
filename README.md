@@ -23,7 +23,7 @@ I enjoy building responsive, secure, maintainable products and turning real-worl
 
  ## 📫 Connect
 
-🌐 [Portfolio](https://priyankaeshwaroju.com)  
+🌐 [Portfolio]()  
 💼 [LinkedIn](https://www.linkedin.com/in/dnyaneshwar-d-raut)  
 📧 [Email](mailto:dnyans.raut@gmail.com)
 
