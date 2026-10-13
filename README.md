@@ -16,10 +16,10 @@ I enjoy building responsive, secure, maintainable products and turning real-worl
 
 ## 🚀 Featured Projects
 
-- 🤖 AI-Powered PDF Knowledge Assistant
-- 🔎 GitHub Repo Explorer
-- 💼 JobTracker
-- ♿ Assistive Technology Loan Library
+- 🤖 New Balance Consumer Confidence
+- 🔎 New Balance Checkout
+- 💼 New Balance Post Purchase
+- ♿ New Balance Mircoservices
 
  ## 📫 Connect
 
